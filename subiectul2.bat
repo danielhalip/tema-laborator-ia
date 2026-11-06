@@ -8,4 +8,6 @@ cd Tema_Laborator_HalipDaniel
 mkdir Sursa
 mkdir Destinatie
 
+tree /a
+
 tree /a > structura.txt
