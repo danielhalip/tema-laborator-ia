@@ -1,3 +1,4 @@
-def calculeaza(a, b):
-    # Operator de înmulțire concurent
-    return a * b
+def calculeaza(a, b, operatie="adunare"):
+    if operatie == "inmultire":
+        return a * b
+    return a + b
